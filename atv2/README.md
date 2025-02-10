@@ -34,4 +34,7 @@ A segunda atividade é configurar e implementar a plataforma **Wiki.js** usando 
     no    navegador:
 
     http://localhost:3000
+
+   No seu primeiro acesso voçê vai cair na página de cadastro, após preencher vai ser
+   redirecionado para página Welcome
     
