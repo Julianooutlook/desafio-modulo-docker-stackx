@@ -3,7 +3,7 @@
 
 ### **README da Atividade 2 (atv2/README.md)**
 
-```markdown
+markdown
 # Atividade 2 - Implementar Wiki.js com Docker
 
 ### Objetivo
