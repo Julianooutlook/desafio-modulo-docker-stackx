@@ -19,17 +19,19 @@ Esta atividade consiste em criar uma imagem Docker para servir um arquivo `index
    git clone https://github.com/seu-usuario/desafio-modulo-docker-stackx.git
 
 2. Navegue até a pasta 
-   da Atividade    1:
+   da Atividade 1:
    ```bash
    cd desafio-modulo-docker-stack/atv1
 
 3. Construa a imagem Docker:
   ```bash
   docker build -t frontend .
+  ```
 
 4. Inicie o container:
    ```bash
   docker run -d -p 80:80 frontend
+  ```
 
 5. Acesse a aplicação no navegador:
 
