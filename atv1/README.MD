@@ -20,16 +20,16 @@ Esta atividade consiste em criar uma imagem Docker para servir um arquivo `index
 
 2. Navegue até a pasta 
    da Atividade    1:
-   
+   ```bash
    cd desafio-modulo-docker-stack/atv1
 
 3. Construa a imagem Docker:
 
-   docker build -t frontend .
+  ```docker build -t frontend .
 
 4. Inicie o container:
    
-   docker run -d -p 80:80 frontend
+  ```docker run -d -p 80:80 frontend
 
 5. Acesse a aplicação no navegador:
 
