@@ -29,9 +29,9 @@ Esta atividade consiste em criar uma imagem Docker para servir um arquivo `index
   ```
 
 4. Inicie o container:
-   ```bash
-  docker run -d -p 80:80 frontend
-  ```
+  
+ ```docker run -d -p 80:80 frontend
+  
 
 5. Acesse a aplicação no navegador:
 
